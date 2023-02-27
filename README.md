@@ -7,10 +7,15 @@
  - SWGSource Community: 
    https://discord.gg/YyqABFJYnR
  
- - Vossk
+ - (SWG:PE)Dev.ForsakenReaper @ SWG-ProjectEuphoria
+    https://discord.gg/qShceD4vDx
+	
+ - Vossk @ SWG-Source / SWG-Evolve
  
- - RezecNobile
+ - RezecNoble @ SWG-Evolve
+   https://discord.gg/MqsTGMh3Wk
  
- - TekoahSwg
+ - TekoahSwg @ SWG Source
+   https://discord.gg/YyqABFJYnR
  
  ---------------------------------
