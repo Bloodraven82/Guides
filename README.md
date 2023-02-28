@@ -16,7 +16,7 @@
  - RezecNoble @ SWG-Evolve
    https://discord.gg/MqsTGMh3Wk
  
- - TekoahSwg @ SWG Source
+ - TekaohSwg @ SWG Source
    https://discord.gg/YyqABFJYnR
  
  ---------------------------------
